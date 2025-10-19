@@ -4,7 +4,7 @@
 ## Команда
 - Бендик М.А. — ML-инженер (train_model.py, классификатор)
 - Шедько Ю.С. — Data Scientist (rag_agent.ipynb, RAG-модуль)
-- Содиков Р.С. — Backend (app.py, Docker)
+- Джафархонов Р.С. — Backend (app.py, Docker)
 ## Структура
 ├── app.py # Streamlit-интерфейс
 ├── train_model.py # Скрипт обучения классификатора
